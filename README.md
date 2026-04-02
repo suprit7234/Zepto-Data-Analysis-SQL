@@ -108,7 +108,8 @@ The dataset contains product-level information:
 
 ## 🙌 Author
 
-**Your Name**
+**Suprit Tapase**
+**Email: suprittapase3@gmail.com**
 Aspiring Data Analyst | SQL | Power BI | Python
 
 ---
